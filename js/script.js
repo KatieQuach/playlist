@@ -7,6 +7,11 @@ var obj = {
 
 }
 
+//need in the click handler
+//obj.Artist_Name = "Billie Eillish";
+//obj["Song_Title"] = "everything i wanted";
+
+
 let playlist = [obj]
 
 
