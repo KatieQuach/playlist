@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/itscodenation/playlist) 
+
 # Playlist Project
 
 ### Gitpod Preview in Browser: python3 -m http.server 3000
